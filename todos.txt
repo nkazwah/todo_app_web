@@ -1,0 +1,5 @@
+clean garage
+make coffee
+take out garbage
+block
+clean bag
