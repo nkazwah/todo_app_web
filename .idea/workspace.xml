@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f7e7ac8c-ea0a-4a47-93e6-626637968843" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/web_app1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todos.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web.py" afterDir="false" />
-    </list>
+    <list default="true" id="f7e7ac8c-ea0a-4a47-93e6-626637968843" name="Changes" comment="first commit. includes all files and generated requirements.txt" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +13,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/nkazwah/todo_app_web.git",
+    "accountId": "6a679819-4f9d-451b-b545-6d46dd2e8cef"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -60,11 +57,24 @@
       <updated>1763221343074</updated>
       <workItem from="1763221933515" duration="86000" />
       <workItem from="1763222142495" duration="158000" />
-      <workItem from="1763222391290" duration="1054000" />
+      <workItem from="1763222391290" duration="1414000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit. includes all files and generated requirements.txt">
+      <option name="closed" value="true" />
+      <created>1763223491818</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1763223491818</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit. includes all files and generated requirements.txt" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit. includes all files and generated requirements.txt" />
   </component>
 </project>
